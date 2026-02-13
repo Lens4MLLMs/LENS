@@ -128,15 +128,23 @@ Please use the following reference if you find this project useful for your rese
 [//]: # (等待arxiv的发布)
 
    ```
-   
+   @article{yao2025lens,
+  title={LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models},
+  author={Yao, Ruilin and Zhang, Bo and Huang, Jirui and Long, Xinwei and Zhang, Yifang and Zou, Tianyu and Wu, Yufei and Su, Shichao and Xu, Yifan and Zeng, Wenxi and others},
+  journal={arXiv preprint arXiv:2505.15616},
+  year={2025}
+}
    ```
 
 ## 🤝 Contact
-If you have any questions, please drop us an email: lens4mllms@googlegroups.com
+If you have any questions, please drop us an email: lens4mllms@googlegroups.com or yaoruilin@whut.edu.cn
 
 ## 🚨 Ethical and Responsible Use
 
-Appropriate privacy protection has been applied to all facial images in the dataset.
+Appropriate privacy protection has been applied to all facial images in the dataset. We are committed to ensuring that this project adheres to high standards of ethical research, data privacy protection, and copyright compliance. All data used in this project were collected from publicly accessible sources, with careful consideration given to the terms of service of the originating platforms. We made substantial efforts to avoid restricted, paywalled, or sensitive content, and we release only processed and research-oriented annotations when appropriate.
+
+This dataset and repository are intended strictly for non-commercial academic research purposes. Users are responsible for ensuring that their use complies with applicable laws, institutional policies, and platform terms.
+If any content in this repository is found to raise concerns related to privacy, copyright, or legal compliance, please contact us at yaoruilin@whut.edu.cn. We will promptly review the request and are willing to remove, modify, or withdraw any data or materials that may involve potential legal risks.
 
 ## 📊 Repository Traffic (Cumulative)
 
